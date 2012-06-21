@@ -9,5 +9,5 @@ It is designed to project the development of stand with at least 80 percent basa
 
 The DFSIM model also contains an economics option that allows users to estimate present net worth of the simulated regime.
 
-
+See http://www.fs.fed.us/pnw/software/DFSIM14/DFSIM.htm for more information. 
 
