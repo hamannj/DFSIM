@@ -230,13 +230,23 @@ c$$$      call gettim (hour,minute,second,i100th)
       call idate(today)   ! today(1)=day, (2)=month, (3)=year
       call itime(now)     ! now(1)=hour, (2)=minute, (3)=second
 
-      year=today(3)
-      month=today(2)
-      day=today(1)
-      hour=now(1)
-      minute=now(2)
-      second=now(3)
+C      year=today(3)
+C      month=today(2)
+C      day=today(1)
+C      hour=now(1)
+C      minute=now(2)
+C      second=now(3)
+C      i100th=0.0
+
+
+      year=2012                                                                                                                                 
+      month=7                                                                                                                                
+      day=9                                                                                                                                  
+      hour=12                                                                                                                                   
+      minute=00                                                                                                                                 
+      second=00                                                                                                                                 
       i100th=0.0
+
 
       
       ISTOP = 0                                                         DFS 960
