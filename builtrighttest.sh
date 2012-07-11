@@ -1,0 +1,3 @@
+./dfsim > output.txt
+
+
